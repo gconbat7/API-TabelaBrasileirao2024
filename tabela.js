@@ -84,6 +84,30 @@ const tabela2024 = [
   },
 
   {
+    nome: 'Red Bull',
+    sigla: 'RDB',
+    pontos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: 0,
+  },
+
+  {
+    nome: 'Figueirense',
+    sigla: 'FIG',
+    pontos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: 0,
+  },
+
+  {
     nome: 'Bahia',
     sigla: 'BAH',
     pontos: 0,
